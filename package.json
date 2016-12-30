@@ -1,0 +1,9 @@
+{
+  "name": "fort",
+  "version": "0.0.1",
+  "description": "",
+  "global": "1",
+  "install": "install -b fort.sh ${PREFIX:-/usr/local}/bin",
+  "scripts": [ "fort.sh" ]
+}
+
